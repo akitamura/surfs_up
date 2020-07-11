@@ -12,15 +12,15 @@ Software: pandas, mumpy, datetime, matplotlib, sqlalchemy, python, flask
 
 From the data we see that:
 
-June has 183 more data points than December
+- June has 183 more data points than December
 
-June has a mean that is 3.9 degree F higher than December
+- June has a mean that is 3.9 degree F higher than December
 
-June has a smaller std of 3.25 than December's 3.74
+- June has a smaller std of 3.25 than December's 3.74
 
-June has a higher min of 64 degree F than December's 56 degree F
+- June has a higher min of 64 degree F than December's 56 degree F
 
-June has a higher max of 85 degree F than December's 83 degree F
+- June has a higher max of 85 degree F than December's 83 degree F
 
 
 This can be visualized in the boxplot below:
